@@ -1,0 +1,1 @@
+# dynaconf-auto-merge-demo
